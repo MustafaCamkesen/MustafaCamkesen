@@ -33,11 +33,11 @@
 <p align="left">
     <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> 
         <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logo-rgb-black-red.svg" 
-             alt="Fortinet" width="150" height="150" /> 
+             alt="Fortinet" width="350" height="150" /> 
     </a>
     <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" 
-             alt="Cisco" width="150" height="150" /> 
+             alt="Cisco" width="350" height="150" /> 
     </a>
     <a href="https://pnetlab.com/" target="_blank" rel="noreferrer"> 
         <img src="https://pnetlab.com/views/pages/components/logo/logo.png" 
